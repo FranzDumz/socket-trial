@@ -1,5 +1,8 @@
 # socket_trial
 
+Sample Payload
+{"action":"message"}
+
 A new Flutter project.
 
 ## Getting Started
